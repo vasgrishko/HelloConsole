@@ -1,0 +1,15 @@
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\bin\Debug\net6.0\Example 001_HelloConsole.exe
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\bin\Debug\net6.0\Example 001_HelloConsole.deps.json
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\bin\Debug\net6.0\Example 001_HelloConsole.runtimeconfig.json
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\bin\Debug\net6.0\Example 001_HelloConsole.dll
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\bin\Debug\net6.0\Example 001_HelloConsole.pdb
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.AssemblyInfo.cs
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.dll
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\refint\Example 001_HelloConsole.dll
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.pdb
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\Example 001_HelloConsole.genruntimeconfig.cache
+C:\Users\Slayer\Desktop\Учеба\C#\Examples\Example 001_HelloConsole\obj\Debug\net6.0\ref\Example 001_HelloConsole.dll
